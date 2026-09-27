@@ -1,0 +1,18 @@
+# Build
+build/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Executables
+*.exe
+
+# Dynamic libraries
+*.dll
+
+# VS Code local files
+.vscode/*.code-workspace
